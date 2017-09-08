@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=x\ y\ width\ height
+comment0.target=Herb(int,\ int,\ int,\ int)
+comment1.params=game
+comment1.target=void\ UseItem(Game)
+comment1.text=\r\n\ Using\ the\ potion\ in\ the\ presence\ of\ the\ deer\ or\ cat\ will\ remove\ it\ from\ the\ room\ and\ add\ them\ to\ the\ inventory.\r\n\ @param\ the\ current\ player,\ current\ room\ and\ game\ state\ \r\n
+numComments=2

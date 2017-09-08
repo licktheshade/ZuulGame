@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x\ y\ w\ h\ image
+comment0.target=Drawable(int,\ int,\ int,\ int,\ java.lang.String)
+comment1.params=
+comment1.target=javax.swing.JLabel\ getUi()
+comment2.params=
+comment2.target=javax.swing.JLabel\ getSmallUi()
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=x\ y\ width\ height
+comment0.target=Cat(int,\ int,\ int,\ int)
+comment1.params=game
+comment1.target=void\ UseCompanion(Game)
+comment1.text=\r\n\ Allows\ the\ faerie\ to\ be\ defeated.\r\n\ There\ is\ no\ effect\ when\ used\ against\ the\ dragon\ or\ the\ princess,\ except\ fleeing.\r\n\ @param\ the\ current\ player,\ current\ room\ and\ game\ state\ \r\n
+numComments=2

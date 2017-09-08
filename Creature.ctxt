@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=x\ y\ w\ h\ image
+comment0.target=Creature(int,\ int,\ int,\ int,\ java.lang.String)
+comment1.params=game
+comment1.target=void\ UseCompanion(Game)
+comment1.text=\r\n\ A\ method\ for\ the\ player\ to\ use\ a\ recruited\ companion\r\n\ @param\ the\ player,\ room\ and\ game\ state\r\n\ @returns\ unique\ possibilities\ based\ on\ the\ companion\r\n\ \r\n
+numComments=2

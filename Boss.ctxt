@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=name\ x\ y\ width\ height
+comment0.target=Boss(java.lang.String,\ int,\ int,\ int,\ int)
+comment0.text=\r\n\ Boss\ name\ is\ initialised\ in\ their\ respective\ room\ class,\ \r\n\ all\ bosses\ act\ the\ same\ so\ there\ is\ no\ need\ for\ seperate\ subclasses.\r\n
+comment1.params=game
+comment1.target=void\ UseCompanion(Game)
+comment1.text=\r\n\ An\ empty\ method\ here\ as\ bosses\ cannot\ be\ used\ by\ the\ player.\r\n\ However\ subsequent\ versions\ of\ the\ game\ may\ utilise\ this\ method.\r\n\ @param\ the\ current\ player,\ current\ room\ and\ game\ state\r\n
+numComments=2

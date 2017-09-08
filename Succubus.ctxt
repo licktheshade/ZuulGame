@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=x\ y\ width\ height
+comment0.target=Succubus(int,\ int,\ int,\ int)
+comment1.params=game
+comment1.target=void\ UseCompanion(Game)
+comment1.text=\r\n\ Allows\ the\ dragon\ to\ be\ defeated.\r\n\ There\ is\ no\ effect\ when\ used\ against\ the\ faerie\ or\ princess.\r\n\ @param\ the\ current\ player,\ current\ room\ and\ game\ state\r\n\ \r\n
+numComments=2

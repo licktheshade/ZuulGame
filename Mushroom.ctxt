@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=x\ y\ width\ height
+comment0.target=Mushroom(int,\ int,\ int,\ int)
+comment1.params=
+comment1.target=int\ getRandomInt()
+comment1.text=\r\n\ Retrieves\ a\ random\ number\ to\ use\ in\ the\ useItem\ method\r\n
+comment2.params=game
+comment2.target=void\ UseItem(Game)
+comment2.text=\r\n\ Using\ the\ mushroom\ has\ a\ 20%\ of\ ending\ the\ game.\ Otherwise\ returns\ a\ print\ statement\ and\ is\ removed\ from\ the\ inventory.\r\n\ @param\ the\ current\ player,\ current\ room\ and\ game\ state\ \r\n
+numComments=3

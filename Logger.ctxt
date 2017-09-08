@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=text
+comment0.target=void\ setLogger(javax.swing.JTextArea)
+comment0.text=\r\n\ The\ Logger\ is\ set\ on\ game\ setup\ -\ either\ by\ providing\ a\ JText\ area\ or\ null\ to\ play\ on\ the\ console\r\n
+comment1.params=msg
+comment1.target=void\ Log(java.lang.String)
+comment1.text=\r\n\ Output\ of\ the\ user\ message\ on\ console\ or\ JTextArea\r\n
+numComments=2

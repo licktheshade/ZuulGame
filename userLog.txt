@@ -1,0 +1,6 @@
+go east
+take herb
+take herb
+use herb
+use herb
+quit
